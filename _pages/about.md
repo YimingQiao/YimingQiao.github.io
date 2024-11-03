@@ -28,7 +28,7 @@ Publication
 
 1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
 
-    [Paper] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
+    [[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
 
 2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. 
