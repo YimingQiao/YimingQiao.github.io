@@ -46,17 +46,12 @@ Patents
 Experience
 -----
 
-- **eBay**: Software Engineering Intern
+- **eBay**: Software Engineering Intern (Sept. 2020 - Nov. 2020)
 
-  *Shanghai, China, Sept. 2020 - Nov. 2020*
+- **Oracle**: Software Engineering Intern (Nov. 2019 - May 2020)
 
-- **Oracle**: Software Engineering Intern
+- **Nanjing University**: Exchange Student (Sept. 2018 - Jun. 2019)
 
-  *Nanjing, China, Nov. 2019 - May 2020*
-
-- **Nanjing University**: Exchange Student
-
-  *Nanjing, China, Sept. 2018 - Jun. 2019*
 
 Awards
 -----
