@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Yiming Qiao"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. Before joining Tsinghua, I received my Bachelor's degree from Nanjing University of Posts and Telecommunications.
-
+I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications.
 
 Education
 ======
@@ -23,8 +22,8 @@ Education
 Publication
 ======
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
-[[Paper (to appear)]] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
+[Paper (to appear)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
 
 2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
