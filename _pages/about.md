@@ -27,14 +27,17 @@ Publication
 -----
 
 1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
-[Paper] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
+
+    [Paper] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
 
-2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
+2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. 
 
-3. Hu Zhu\*, **Yiming Qiao**\*, Guoxia Xu, Lizhen Deng, and Yu-Feng Yu. "DSPNet: A Lightweight Dilated Convolution Neural Networks for Spectral Deconvolution with Self-paced Learning," *IEEE Transactions on Industrial Informatics* (**TII**) 16, no. 12 (2019): 7392-7401. (*Equal Contribution) [[Paper](../files/DSPNet_A_Lightweight_Dilated_Convolution_Neural_Networks_for_Spectral_Deconvolution_With_Self-Paced_Learning.pdf)]
+    [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
-4. Huihui Wang, Shunmei Meng, **Yiming Qiao**, and Jing Zhang. "Fast Classification Algorithms via Distributed Accelerated Alternating Direction Method of Multipliers," *Proceedings of 2019 IEEE International Conference on Data Mining* (**ICDM'19**), Nov. 2019, pp. 1354 - 1359. [[Paper](../files/Fast_Classification_Algorithms_via_Distributed_Accelerated_Alternating_Direction_Method_of_Multipliers.pdf)]
+3. Hu Zhu\*, **Yiming Qiao**\*, Guoxia Xu, Lizhen Deng, and Yu-Feng Yu. "DSPNet: A Lightweight Dilated Convolution Neural Networks for Spectral Deconvolution with Self-paced Learning," *IEEE Transactions on Industrial Informatics* (**TII**) 16, no. 12 (2019): 7392-7401. (*Equal Contribution)
+
+4. Huihui Wang, Shunmei Meng, **Yiming Qiao**, and Jing Zhang. "Fast Classification Algorithms via Distributed Accelerated Alternating Direction Method of Multipliers," *Proceedings of 2019 IEEE International Conference on Data Mining* (**ICDM'19**), Nov. 2019, pp. 1354 - 1359. 
 
 Patents
 -----
