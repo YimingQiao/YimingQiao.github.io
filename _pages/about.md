@@ -13,13 +13,11 @@ I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS
 Education
 ======
 ### Tsinghua University
-**Ph.D. in Computer Science**  
-*Sept. 2021 - Jun. 2026*
+*Ph.D. in Computer Science, Sept. 2021 - Jun. 2026*
 
 
 ### Nanjing University of Posts and Telecommunications
-**B.Eng. in Information Security**  
-*Sept. 2017 - Jun. 2021*
+*B.Eng. in Information Security, Sept. 2017 - Jun. 2021*
 
 
 Publication
@@ -45,24 +43,14 @@ Patents
 Experience
 ======
 
-### Software Engineering Intern
-**eBay**  
-*Shanghai, China*  
-*Sept. 2020 - Nov. 2020*
+- Software Engineering Intern at **eBay**  
+*Shanghai, China, Sept. 2020 - Nov. 2020*
 
----
+- Software Engineering Intern at **Oracle**  
+*Nanjing, China, Nov. 2019 - May 2020*
 
-### Software Engineering Intern
-**Oracle**  
-*Nanjing, China*  
-*Nov. 2019 - May 2020*
-
----
-
-### Exchange Student
-**Nanjing University**  
-*Nanjing, China*  
-*Sept. 2018 - Jun. 2019*
+- Exchange Student at **Nanjing University**  
+*Nanjing, China, Sept. 2018 - Jun. 2019*
 
 Awards
 =====

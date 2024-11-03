@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Yiming Qiao"
 title_separator          : "-"
 name                     : &name "Yiming Qiao"
 description              : &description "Phd student in Institute for Interdisciplinary Information Sciences, Tsinghua University"
