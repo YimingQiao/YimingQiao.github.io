@@ -7,20 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications.
+I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications.
+
+[[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
 
 Education
-======
-### Tsinghua University
-*Ph.D. in Computer Science, Sept. 2021 - Jun. 2026*
+-----
+**Tsinghua University**
+
+Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 
-### Nanjing University of Posts and Telecommunications
-*B.Eng. in Information Security, Sept. 2017 - Jun. 2021*
+**Nanjing University of Posts and Telecommunications**
+
+B.Eng. in Information Security, Sept. 2017 - Jun. 2021
 
 
 Publication
-======
+-----
 
 1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
 [Paper (to appear)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
@@ -33,30 +37,33 @@ Publication
 4. Huihui Wang, Shunmei Meng, **Yiming Qiao**, and Jing Zhang. "Fast Classification Algorithms via Distributed Accelerated Alternating Direction Method of Multipliers," *Proceedings of 2019 IEEE International Conference on Data Mining* (**ICDM'19**), Nov. 2019, pp. 1354 - 1359. [[Paper](../files/Fast_Classification_Algorithms_via_Distributed_Accelerated_Alternating_Direction_Method_of_Multipliers.pdf)]
 
 Patents
-=====
+-----
 
 1. Xingguo Chen, **Yiming Qiao**, Wei Liu, Jie Zhu, "A User-Oriented Method for Enhancing Custom Sports Commentary," Patent CN202010284204.8, China, Filed Apr. 2020, Granted Sept. 2023.
 
 2. Zhiqiang Zou, Linrui Li, Shuyu Chang, **Yiming Qiao**, "A Classification Method for Outlier Celestial Objects Based on Astronomical Spectral Data," Patent CN202010983397.6, China, Filed Sept. 2020.
 
 Experience
-======
+-----
 
-- Software Engineering Intern at **eBay**  
-*Shanghai, China, Sept. 2020 - Nov. 2020*
+- **eBay**: Software Engineering Intern
 
-- Software Engineering Intern at **Oracle**  
-*Nanjing, China, Nov. 2019 - May 2020*
+  *Shanghai, China, Sept. 2020 - Nov. 2020*
 
-- Exchange Student at **Nanjing University**  
-*Nanjing, China, Sept. 2018 - Jun. 2019*
+- **Oracle**: Software Engineering Intern
+
+  *Nanjing, China, Nov. 2019 - May 2020*
+
+- **Nanjing University**: Exchange Student
+
+  *Nanjing, China, Sept. 2018 - Jun. 2019*
 
 Awards
-=====
+-----
 - [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), 2020.
-- [Bell Honors School Graduate Gold Medal](http://bhs.njupt.edu.cn/2014/0925/c4834a64225/page.htm), Nanjing University of Posts and Telecommunications, 2020.
+- [Bell Honors School Graduate Gold Medal](http://bhs.njupt.edu.cn/2014/0925/c4834a64225/page.htm), 2020.
 
 Teaching
-=====
+-----
 - **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
 - **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
