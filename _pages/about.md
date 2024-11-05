@@ -20,25 +20,38 @@ Recently, I have been working on **DuckDB**, focusing on two major projects:
       AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
     ```
 
+<br>
 [[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
+
+
 
 Education
 -----
+
 **Tsinghua University**  
 Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 **Nanjing University of Posts and Telecommunications**  
 B.Eng. in Information Security, Sept. 2017 - Jun. 2021
 
+Experience
+-----
+**eBay** - Software Engineering Intern  
+*Shanghai, China* | *Sept. 2020 - Nov. 2020*
+
+**Oracle** - Software Engineering Intern  
+*Nanjing, China* | *Nov. 2019 - May 2020*
+
+**Nanjing University** - Exchange Student  
+*Sept. 2018 - Jun. 2019*
+
 
 Publications
 -----
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.  
-[[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.  [[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
-2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  
-[[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
+2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
 3. Hu Zhu\*, **Yiming Qiao**\*, Guoxia Xu, Lizhen Deng, and Yu-Feng Yu. "DSPNet: A Lightweight Dilated Convolution Neural Networks for Spectral Deconvolution with Self-paced Learning," *IEEE Transactions on Industrial Informatics* (**TII**) 16, no. 12 (2019): 7392-7401. (*Equal Contribution)
 
@@ -51,22 +64,14 @@ Patents
 
 2. Zhiqiang Zou, Linrui Li, Shuyu Chang, **Yiming Qiao**, "A Classification Method for Outlier Celestial Objects Based on Astronomical Spectral Data," Patent CN202010983397.6, China, Filed Sept. 2020.
 
-Experience
------
-
-- **eBay**: Software Engineering Intern, Sept. 2020 - Nov. 2020
-
-- **Oracle**: Software Engineering Intern, Nov. 2019 - May 2020
-
-- **Nanjing University**: Exchange Student, Sept. 2018 - Jun. 2019
-
 
 Awards
 -----
-- [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), 2020.
+
+- [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), 2020.  
 - [Bell Honors School Graduate Gold Medal](http://bhs.njupt.edu.cn/2014/0925/c4834a64225/page.htm), 2020.
 
 Teaching
 -----
-- **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
+- **Teaching Assistant** - Quantitative Investment (Tsinghua 80470273) - Fall 2023
 - **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
