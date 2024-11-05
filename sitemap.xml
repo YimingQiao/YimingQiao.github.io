@@ -9,123 +9,59 @@
 
 <url>
   <loc>https://yimingqiao.github.io/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://yimingqiao.github.io/files/YimingQiao_CV.pdf</loc>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yimingqiao.github.io/files/%E4%B9%94%E4%B8%80%E6%98%8E_%E7%AE%80%E5%8E%86.pdf</loc>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yimingqiao.github.io/files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf</loc>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://yimingqiao.github.io/files/blitzcrank-vldb24.pdf</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/files/blitz-vldb24-poster.pdf</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/files/YimingQiao%20-%20Blitzcrank.pdf</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/files/DSPNet_A_Lightweight_Dilated_Convolution_Neural_Networks_for_Spectral_Deconvolution_With_Self-Paced_Learning.pdf</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/files/Fast_Classification_Algorithms_via_Distributed_Accelerated_Alternating_Direction_Method_of_Multipliers.pdf</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/sitemap/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/404.html</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/categories/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/collection-archive/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/cv/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/markdown/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/non-menu-page/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/page-archive/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/portfolio/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/publications/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/tags/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/talkmap.html</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/talks/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/teaching/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/terms/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yimingqiao.github.io/year-archive/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/markdown_generator/</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://yimingqiao.github.io/robots.txt</loc>
-  <lastmod>2024-11-03T13:40:24+00:00</lastmod>
+  <lastmod>2024-11-05T05:26:19+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+
 
 </urlset>
