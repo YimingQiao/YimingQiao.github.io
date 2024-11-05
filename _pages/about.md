@@ -12,7 +12,8 @@ I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS
 Recently, I have been working on **DuckDB**, focusing on two major projects:
 1. **Parallelism-friendly Query Optimization**: This project aims to enhance the parallelism of query plans, improving the overall efficiency and scalability of query execution.
 
-2. **Multi-modal Query Execution**: This project supports complex queries that involve both structured and unstructured data. An example of such a query is:  
+2. **Multi-modal Query Execution**: This project supports complex queries that involve both structured and unstructured data. An example of such a query is: 
+
     ```sql
     SELECT * 
     FROM Movies AS M 
