@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div class="custom-font-size">
 I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications.
 
 [[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
@@ -65,3 +65,4 @@ Teaching
 -----
 - **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
 - **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
+</div>
