@@ -23,7 +23,7 @@ Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 B.Eng. in Information Security, Sept. 2017 - Jun. 2021
 
 
-Publication
+Publications
 -----
 
 1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
