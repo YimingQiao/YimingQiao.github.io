@@ -7,34 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 12px;">
 I am a Ph.D. student [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications.
+
+
+
+Recently, I have been working on **DuckDB**, focusing on two major projects:
+1. **Parallelism-friendly Query Optimization**: This project aims to enhance the parallelism of query plans, improving the overall efficiency and scalability of query execution.
+
+2. **Multi-modal Query Execution**: This project supports complex queries that involve both structured and unstructured data. An example of such a query is: 
+   ```sql
+   SELECT * 
+   FROM Movies AS M 
+   WHERE M.release_date = 2012 
+     AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
 
 [[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
 
 Education
 -----
-**Tsinghua University**
-
+**Tsinghua University**  
 Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 
-**Nanjing University of Posts and Telecommunications**
-
+**Nanjing University of Posts and Telecommunications**  
 B.Eng. in Information Security, Sept. 2017 - Jun. 2021
 
 
 Publications
 -----
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.  
+[[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
-    [[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
-
-2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. 
-
-    [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
+2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  
+[[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
 3. Hu Zhu\*, **Yiming Qiao**\*, Guoxia Xu, Lizhen Deng, and Yu-Feng Yu. "DSPNet: A Lightweight Dilated Convolution Neural Networks for Spectral Deconvolution with Self-paced Learning," *IEEE Transactions on Industrial Informatics* (**TII**) 16, no. 12 (2019): 7392-7401. (*Equal Contribution)
 
@@ -66,4 +73,3 @@ Teaching
 -----
 - **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
 - **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
-</div>
