@@ -18,6 +18,21 @@
 @import "reset";
 @import "base";
 
+body {
+  font-size: 14px; // Change this value to your desired default font size
+}
+
+img {
+  max-width: 100%; // Ensure images are responsive
+  height: auto; // Maintain aspect ratio
+}
+
+.container {
+  max-width: 1200px; // Change this value to your desired default width
+  width: 100%;
+  margin: 0 auto;
+}
+
 @import "utilities";
 @import "animations";
 @import "tables";

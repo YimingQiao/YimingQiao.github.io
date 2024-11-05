@@ -281,6 +281,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
 
 # Sass/SCSS
