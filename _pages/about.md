@@ -26,7 +26,7 @@ B.Eng. in Information Security, Sept. 2017 - Jun. 2021
 Publications
 -----
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," Proceedings of the ACM on Management of Data (**SIGMOD’25**), Accepted.
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.
 
     [[Paper](../files/Data_Chunk_Compaction_in_Vectorized_Execution___crc.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Duckdb)]
 
