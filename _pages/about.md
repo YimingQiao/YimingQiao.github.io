@@ -17,7 +17,7 @@ Recently, I have been working on **DuckDB**, focusing on two major projects:
     SELECT * 
     FROM Movies AS M 
     WHERE M.release_date = 2012 
-      AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
+      AND M.summary IS ABOUT '5A Love Story in World War II'; -- Uses LLM to filter summaries
     ```
 
 [[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
