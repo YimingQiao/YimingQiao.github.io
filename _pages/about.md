@@ -13,12 +13,13 @@ Recently, I have been working on **DuckDB**, focusing on two major projects:
 1. **Parallelism-friendly Query Optimization**: This project aims to enhance the parallelism of query plans, improving the overall efficiency and scalability of query execution.
 
 2. **Multi-modal Query Execution**: This project supports complex queries that involve both structured and unstructured data. An example of such a query is: 
-    ```sql
-    SELECT * 
-    FROM Movies AS M 
-    WHERE M.release_date = 2012 
-      AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
-    ```
+
+```sql
+SELECT * 
+FROM Movies AS M 
+WHERE M.release_date = 2012 
+  AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
+```
 
 <br>
 [[CV](../files/YimingQiao_CV.pdf)] [[中文简历](../files/乔一明_简历.pdf)]
