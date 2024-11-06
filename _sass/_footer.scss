@@ -3,9 +3,10 @@
    ========================================================================== */
 
 .page__footer {
+  @include clearfix;
+  
   display: none;
 
-  @include clearfix;
   float: left;
   margin-left: 0;
   margin-right: 0;
