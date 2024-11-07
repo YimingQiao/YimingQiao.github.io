@@ -56,7 +56,7 @@ Publications
 
 2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
-    *We propose Delayed Coding, a new entropy coding algorithm (e.g., Arithmetic Coding, Asymmetric Numeral System). Based on it, we design a compressor for row-store OLTP databases. It has high compression factors, and fast random access (to a single tuple), about 1 us/s -- slower than memory (200 ns) but much faster than SSD (40 µs).*
+    *We propose Delayed Coding, a new entropy coding algorithm (e.g., Arithmetic Coding, Asymmetric Numeral System). Based on it, we design a compressor for row-store OLTP databases. It has high compression factors, and fast random access (to a single tuple), about 1 µs/tuple -- slower than memory (200 ns) but much faster than SSD (40 µs).*
 
 3. Hu Zhu\*, **Yiming Qiao**\*, Guoxia Xu, Lizhen Deng, and Yu-Feng Yu. "DSPNet: A Lightweight Dilated Convolution Neural Networks for Spectral Deconvolution with Self-paced Learning," *IEEE Transactions on Industrial Informatics* (**TII**) 16, no. 12 (2019): 7392-7401. (*Equal Contribution)
 
