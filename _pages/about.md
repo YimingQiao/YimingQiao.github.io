@@ -52,7 +52,7 @@ Publications
 
 1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.  [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)]  
 
-    *In this paper, we highlight the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction has been merged into DuckDB (#14956).*
+    *In this paper, we highlight the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction has been used by DuckDB (#14956).*
 
 2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
