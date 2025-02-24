@@ -59,7 +59,7 @@ Nanjing, China • Sept. 2018 – Jun. 2019
 Publications
 -----
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**) 3, 1, Article 26 (February 2025), 25 pages. [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)]  
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**) 3(1): Article 26, 25 pages. [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)]  
 
     *In this paper, we show the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction is used by DuckDB 1.2.0 ([#14956](https://github.com/duckdb/duckdb/pull/14956)).*
 
