@@ -37,22 +37,31 @@ B.Eng. in Computer Science, Sept. 2017 - Jun. 2021
 
 Experience
 -----
-**eBay** - Software Engineering Intern  
-*Shanghai, China* | *Sept. 2020 - Nov. 2020*
+**Centrum Wiskunde & Informatica**  
+*Visiting Student*  
+Amsterdam, Netherlands • Feb. 2025 – Present  
+Advisor: [Prof. Peter Boncz](https://homepages.cwi.nl/~boncz/)  
 
-**Oracle** - Software Engineering Intern  
-*Nanjing, China* | *Nov. 2019 - May 2020*
+**eBay**  
+*Software Engineering Intern*  
+Shanghai, China • Sept. 2020 – Nov. 2020  
 
-**Nanjing University** - Exchange Student  
-*Sept. 2018 - Jun. 2019*
+**Oracle**  
+*Software Engineering Intern*  
+Nanjing, China • Nov. 2019 – May 2020  
+
+**Nanjing University**  
+*Exchange Student*  
+Nanjing, China • Sept. 2018 – Jun. 2019  
+
 
 
 Publications
 -----
 
-1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**), Accepted.  [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)]  
+1. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**) 3, 1, Article 26 (February 2025), 25 pages. [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)]  
 
-    *In this paper, we highlight the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction has been used by DuckDB (#14956).*
+    *In this paper, we show the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction is used by DuckDB 1.2.0 ([#14956](https://github.com/duckdb/duckdb/pull/14956)).*
 
 2. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  [[Paper](../files/blitzcrank-vldb24.pdf)] [[Code](https://github.com/YimingQiao/Blitzcrank)] [[Poster](../files/blitz-vldb24-poster.pdf)] [[Slides](../files/YimingQiao%20-%20Blitzcrank.pdf)]
 
