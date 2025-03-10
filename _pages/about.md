@@ -82,10 +82,11 @@ Patents
 Awards
 -----
 
-- Tsinghua University Zhang Mingwei Comprehensive Scholarship, 2024
+- Tsinghua University Zhang Mingwei Comprehensive Scholarship, 2024.
+- Excellent Comprehensive Scholarship of IIIS, 2023.
 - [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), 2020.  
 - [Bell Honors School Graduate Gold Medal](http://bhs.njupt.edu.cn/2014/0925/c4834a64225/page.htm), 2020.
-- Nanjing University of Posts and Telecommunications First-Class Scholarship, 2019
+- Nanjing University of Posts and Telecommunications First-Class Scholarship, 2019.
 
 Teaching
 -----
