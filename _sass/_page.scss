@@ -38,7 +38,11 @@
   margin-top: 0;
   line-height: 1;
 
-  & + .page__meta {
+  @include breakpoint($large) {
+    margin-top: 1.75rem; // add vertical gap on large screens to prevent overlap with header/sidebar
+  }
+
+  &+.page__meta {
     margin-top: -0.5em;
   }
 }
@@ -55,7 +59,9 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  p,
+  li,
+  dl {
     font-size: $type-size-font;
   }
 
@@ -64,8 +70,8 @@
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
+    @if $paragraph-indent ==true {
+      &+p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
@@ -101,7 +107,7 @@
   }
 
   /* blockquote citations */
-  blockquote + .small {
+  blockquote+.small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
@@ -113,6 +119,10 @@
   @include clearfix;
   animation: intro 0.3s both;
   animation-delay: 0.25s;
+
+  @include breakpoint($large) {
+    margin-bottom: 3.5em; // increase vertical spacing on large screens
+  }
 
   &--overlay {
     position: relative;
@@ -300,6 +310,7 @@
   transition: $global-transition;
 
   &.disabled {
+
     input,
     button,
     textarea,
