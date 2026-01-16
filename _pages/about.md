@@ -23,7 +23,7 @@ WHERE M.release_date = 2012
 
 
 
-Education
+EDUCATION
 -----
 
 **Tsinghua University**  
@@ -32,7 +32,7 @@ Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 **Nanjing University of Posts and Telecommunications**  
 B.Eng. in Computer Science, Sept. 2017 - Jun. 2021
 
-Experience
+EXPERIENCE
 -----
 
 **Suanzhi Future / Ubiquant**  
@@ -63,7 +63,7 @@ Nanjing, China • Sept. 2018 – Jun. 2019
 
 
 
-Publications
+PUBLICATIONS
 -----
 
 1. **Yiming Qiao**, Peter Boncz, Huanchen Zhang, "Robust Predicate Transfer with Dynamic Execution," *Proceddings of the VLDB Endowment* (**VLDB'26**), 2026. (To appear). 
@@ -90,7 +90,7 @@ Publications
 
 5. Huihui Wang, Shunmei Meng, **Yiming Qiao**, and Jing Zhang. "Fast Classification Algorithms via Distributed Accelerated Alternating Direction Method of Multipliers," *Proceedings of 2019 IEEE International Conference on Data Mining* (**ICDM'19**), Nov. 2019, pp. 1354 - 1359. 
 
-Patents
+PATENTS
 -----
 
 1. Xingguo Chen, **Yiming Qiao**, Wei Liu, Jie Zhu, "A User-Oriented Method for Enhancing Custom Sports Commentary," Patent CN202010284204.8, China, Filed Apr. 2020, Granted Sept. 2023.
@@ -98,7 +98,7 @@ Patents
 2. Zhiqiang Zou, Linrui Li, Shuyu Chang, **Yiming Qiao**, "A Classification Method for Outlier Celestial Objects Based on Astronomical Spectral Data," Patent CN202010983397.6, China, Grant Dec. 2024.
 
 
-Awards
+AWARDS
 -----
 
 - SIGMOD Programming Contest 2025, Third Place Team, 2025.
@@ -108,18 +108,19 @@ Awards
 - [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), fully funded by China Scholarship Council, 2020 (12 weeks).
 - First-Class Scholarship, Nanjing University of Posts and Telecommunications, 2019.
 
-Certificates
+OTHERS
 -----
+
+### Certificates
 
 - Private Equity Comprehensive Competency Enhancement Program Certificate, jointly issued by Tsinghua University Graduate School and Global Private Equity Institute, 2023.
 
-Teaching
------
+### Teaching
+
 - **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
 - **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
 
-Invited Talks
------
+### Invited Talks
 
 - Dynamic Execution in Robust Predicate Transfer, CWI, Database Architecture Group, Sep. 12, 2025.
 - Robust Predicate Transfer with Dynamic Execution, Tencent Cloud – Big Data Infrastructure Center, Sep. 2, 2025.
