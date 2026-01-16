@@ -55,9 +55,16 @@
     border-bottom: 1px solid $border-color;
   }
 
+  /* make all normal content use the same base font-size */
   p,
   li,
   dl,
+  dt,
+  dd,
+  blockquote,
+  address,
+  td,
+  th,
   b,
   strong {
     font-size: $type-size-font;
@@ -97,7 +104,7 @@
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-font;
   }
 
   .small {
