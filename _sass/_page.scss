@@ -61,6 +61,18 @@
     font-size: $type-size-font;
   }
 
+  // Ensure list containers and markers inherit the same font size as paragraph text
+  ol,
+  ul,
+  li {
+    font-size: $type-size-font;
+  }
+
+  // Make the list marker use the same size as the list item text
+  li::marker {
+    font-size: inherit;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
