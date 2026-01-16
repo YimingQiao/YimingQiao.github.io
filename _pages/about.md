@@ -26,7 +26,7 @@ WHERE M.release_date = 2012
 EDUCATION
 -----
 
-**Tsinghua University** 
+**Tsinghua University**  
 Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 **Nanjing University of Posts and Telecommunications**  
@@ -66,11 +66,11 @@ Nanjing, China • Sept. 2018 – Jun. 2019
 PUBLICATIONS
 -----
 
-1. **Yiming Qiao**, Peter Boncz, Huanchen Zhang, "Robust Predicate Transfer with Dynamic Execution," *Proceddings of the VLDB Endowment* (**VLDB'26**), 2026. (To appear). 
+1. **Yiming Qiao**, Peter Boncz, Huanchen Zhang, "Robust Predicate Transfer with Dynamic Execution," *Proceddings of the VLDB Endowment* (**VLDB'26**), 2026. (To appear).  
 [[Paper](../files/rpt_plus.pdf)] 
 [[Code](https://github.com/embryo-labs/dynamic-predicate-transfer)] 
 
-2. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**) 3(1): Article 26, 25 pages. 
+2. **Yiming Qiao**, Huanchen Zhang, "Data Chunk Compaction in Vectorized Execution," *Proceedings of the ACM on Management of Data* (**SIGMOD’25**) 3(1): Article 26, 25 pages.  
 [[Paper](../files/data-chunk-compaction-sigmod25.pdf)] 
 [[Code](https://github.com/YimingQiao/Chunk-Compaction-in-Vectorized-Execution)] 
 [[Poster](../files/data-chunk-compaction-sigmod25-poster.pdf)]
@@ -78,7 +78,7 @@ PUBLICATIONS
 
     <!-- *In this paper, we show the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction is used by DuckDB (since 1.2.0) ([#14956](https://github.com/duckdb/duckdb/pull/14956)).* -->
 
-3. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540. 
+3. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  
 [[Paper](../files/blitzcrank-vldb24.pdf)] 
 [[Code](https://github.com/YimingQiao/Blitzcrank)] 
 [[Poster](../files/blitz-vldb24-poster.pdf)] 
