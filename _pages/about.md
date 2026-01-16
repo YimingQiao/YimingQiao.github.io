@@ -9,18 +9,10 @@ redirect_from:
 
 I am a Ph.D. student in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications. 
 
-Recently, I study **Multi-modal Query Execution**: supporting complex queries that involve both structured and unstructured data. An example of such a query is: 
-
-```sql
-SELECT * 
-FROM Movies AS M 
-WHERE M.release_date = 2012 
-  AND M.summary IS ABOUT 'A Love Story in World War II'; -- Uses LLM to filter summaries
-```
+Currently, I am exploring Multi-modal Query Execution to bridge the gap between structured and unstructured data processing. Additionally, I am interested in optimizing training and inference engines for Large Language Models (LLMs).
 
 <br>
 [[CV](../files/YimingQiao_CV.pdf)]
-
 
 
 EDUCATION
@@ -31,37 +23,6 @@ Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 **Nanjing University of Posts and Telecommunications**  
 B.Eng. in Computer Science, Sept. 2017 - Jun. 2021
-
-EXPERIENCE
------
-
-**Suanzhi Future / Ubiquant**  
-*AI System Resaerch Intern*  
-Beijing, China • Dec. 2025 – Present 
-
-
-**Tencent**  
-*Summer Intern (Qingyun Program)*  
-Shanghai, China • Jul. 2025 – Oct. 2025  
-
-**Centrum Wiskunde & Informatica**  
-*Visiting Student*  
-Amsterdam, Netherlands • Feb. 2025 – May. 2025  
-Advisor: [Prof. Peter Boncz](https://homepages.cwi.nl/~boncz/)  
-
-<!-- **eBay**  
-*Software Engineering Intern*  
-Shanghai, China • Sept. 2020 – Nov. 2020   -->
-
-**Oracle**  
-*Software Engineering Intern*  
-Nanjing, China • Nov. 2019 – May 2020  
-
-**Nanjing University**  
-*Exchange Student*  
-Nanjing, China • Sept. 2018 – Jun. 2019  
-
-
 
 PUBLICATIONS
 -----
@@ -90,38 +51,40 @@ PUBLICATIONS
 
 5. Huihui Wang, Shunmei Meng, **Yiming Qiao**, and Jing Zhang. "Fast Classification Algorithms via Distributed Accelerated Alternating Direction Method of Multipliers," *Proceedings of 2019 IEEE International Conference on Data Mining* (**ICDM'19**), Nov. 2019, pp. 1354 - 1359. 
 
-PATENTS
+EXPERIENCE
+---
+
+* **Suanzhi Future / Ubiquant** \| AI System Research Intern \| Beijing <span style="float:right">Dec. 2025 – Present</span>
+* **Tencent** \| Summer Intern (Qingyun Program) \| Shanghai <span style="float:right">July 2025 – Oct. 2025</span>
+* **Centrum Wiskunde & Informatica** \| Visiting Student \| Amsterdam <span style="float:right">Feb. 2025 – May. 2025</span>  
+  Advisor: [Prof. Peter Boncz](https://homepages.cwi.nl/~boncz/)
+* **Oracle** \| Software Engineering Intern \| Nanjing <span style="float:right">Nov. 2019 – May 2020</span>
+* **Nanjing University** \| Exchange Student \| Nanjing <span style="float:right">Sept. 2018 – June 2019</span>
+
+
+HONORS, PATENTS & SERVICES
 -----
 
-1. Xingguo Chen, **Yiming Qiao**, Wei Liu, Jie Zhu, "A User-Oriented Method for Enhancing Custom Sports Commentary," Patent CN202010284204.8, China, Filed Apr. 2020, Granted Sept. 2023.
-
-2. Zhiqiang Zou, Linrui Li, Shuyu Chang, **Yiming Qiao**, "A Classification Method for Outlier Celestial Objects Based on Astronomical Spectral Data," Patent CN202010983397.6, China, Grant Dec. 2024.
-
-
-AWARDS
------
+### Selected Awards
+{: style="margin-top: 0px;"}
 
 - SIGMOD Programming Contest 2025, Third Place Team, 2025.
 - Zhang Mingwei Comprehensive Scholarship, Tsinghua University, 2024.
 - Excellent Comprehensive Scholarship of IIIS, Tsinghua University, 2023.
 - Bell Honors School Graduate Gold Medal, Nanjing University of Posts and Telecommunications, 2020.
-- [Mitacs Globalink Research Internship](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), fully funded by China Scholarship Council, 2020 (12 weeks).
+- Mitacs Globalink Research Internship, fully funded by China Scholarship Council, 2020 (12 weeks).
 - First-Class Scholarship, Nanjing University of Posts and Telecommunications, 2019.
 
-OTHERS
------
+### Patents
+1. Xingguo Chen, **Yiming Qiao**, Wei Liu, Jie Zhu, "A User-Oriented Method for Enhancing Custom Sports Commentary," Patent CN202010284204.8, China, Filed Apr. 2020, Granted Sept. 2023.
 
-### Certificates
+2. Zhiqiang Zou, Linrui Li, Shuyu Chang, **Yiming Qiao**, "A Classification Method for Outlier Celestial Objects Based on Astronomical Spectral Data," Patent CN202010983397.6, China, Grant Dec. 2024.
 
-- Private Equity Comprehensive Competency Enhancement Program Certificate, jointly issued by Tsinghua University Graduate School and Global Private Equity Institute, 2023.
+### Talks & Service
+* **Artifact Availability and Reproducibility Committee (ARC)**, SIGMOD 2025.
+* **Invited Talk**: Dynamic Execution in Robust Predicate Transfer, **CWI Amsterdam**, Sep. 12, 2025
+* **Invited Talk**: Robust Predicate Transfer with Dynamic Execution, **Tencent Cloud**, Sep. 2, 2025.
+* **Teaching Assistant**: Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023. 
+* **Teaching Assistant**: Data Mining (Tsinghua 40470333) - Fall 2021
+* **Certificate**: Private Equity Comprehensive Competency Enhancement Program Certificate, Tsinghua GPEI, 2023.
 
-### Teaching
-
-- **Teaching Assistant** - Quantitative Investment and Financial Optimization (Tsinghua 80470273) - Fall 2023
-- **Teaching Assistant** - Data Mining (Tsinghua 40470333) - Fall 2021
-
-### Invited Talks
-
-- Dynamic Execution in Robust Predicate Transfer, CWI, Database Architecture Group, Sep. 12, 2025.
-- Robust Predicate Transfer with Dynamic Execution, Tencent Cloud – Big Data Infrastructure Center, Sep. 2, 2025.
-- Blitzcrank: Fast Semantic Compression for In-Memory OLTP, VLDB 2024, Guangzhou, China, Aug. 2024.
