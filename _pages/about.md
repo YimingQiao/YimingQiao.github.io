@@ -26,7 +26,7 @@ WHERE M.release_date = 2012
 EDUCATION
 -----
 
-**Tsinghua University**  
+**Tsinghua University** 
 Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
 
 **Nanjing University of Posts and Telecommunications**  
