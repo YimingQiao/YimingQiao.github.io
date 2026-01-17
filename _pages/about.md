@@ -40,7 +40,7 @@ PUBLICATIONS
     <!-- *In this paper, we show the "small chunk problem" in vectorized query execution, identifying the filter and hash join as the most problematic operators. We propose two solutions: Learning Compaction for filters and Logical Compaction for hash joins. The Logical Compaction is used by DuckDB (since 1.2.0) ([#14956](https://github.com/duckdb/duckdb/pull/14956)).* -->
 
 3. **Yiming Qiao**, Yihan Gao, Huanchen Zhang, "Blitzcrank: Fast Semantic Compression for In-memory Online Transaction Processing," *Proceedings of the VLDB Endowment* (**VLDB'24**) 17, no. 10, pp. 2528 - 2540.  
-[[Paper](../files/blitzcrank-vldb24.pdf)] 
+[[Paper](https://www.vldb.org/pvldb/vol17/p2528-zhang.pdf)] 
 [[Code](https://github.com/YimingQiao/Blitzcrank)] 
 [[Poster](../files/blitz-vldb24-poster.pdf)] 
 [[Slides](../files/YimingQiao-Blitzcrank.pdf)]
