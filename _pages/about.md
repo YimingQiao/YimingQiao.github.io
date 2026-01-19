@@ -7,22 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications. 
+I am a Ph.D. student in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University, where I am advised by [Prof. Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). My research focuses on database management systems, with particular interests in vectorized execution, query optimization, and data compression. I obtained my Bachelor's degree from Nanjing University of Posts and Telecommunications in 2021. 
 
 Currently, I am exploring Multi-modal Query Execution to bridge the gap between structured and unstructured data processing. Additionally, I am interested in optimizing training and inference engines for Large Language Models (LLMs).
 
 <br>
 [[CV](../files/YimingQiao_CV.pdf)]
-
-
-EDUCATION
------
-
-**Tsinghua University**  
-Ph.D. in Computer Science, Sept. 2021 - Jun. 2026
-
-**Nanjing University of Posts and Telecommunications**  
-B.Eng. in Computer Science, Sept. 2017 - Jun. 2021
 
 PUBLICATIONS
 -----
