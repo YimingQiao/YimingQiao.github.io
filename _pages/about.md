@@ -44,7 +44,7 @@ PUBLICATIONS
 EXPERIENCE
 ---
 
-* **Suanzhi Future / Ubiquant** \| AI System Research Intern \| Beijing <span style="float:right">Dec. 2025 – Present</span>
+* **Suanzhi Future** \| AI System Research Intern \| Beijing <span style="float:right">Dec. 2025 – Present</span>
 * **Tencent** \| Summer Intern (Qingyun Program) \| Shanghai <span style="float:right">July 2025 – Oct. 2025</span>
 * **Centrum Wiskunde & Informatica** \| Visiting Student \| Amsterdam <span style="float:right">Feb. 2025 – May. 2025</span>  
   Advisor: [Prof. Peter Boncz](https://homepages.cwi.nl/~boncz/)
