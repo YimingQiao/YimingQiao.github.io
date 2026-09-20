@@ -1,0 +1,11 @@
+{% include base_path %}
+<header class="profile-nav">
+  <nav class="profile-nav__inner" aria-label="Main navigation">
+    <a class="profile-nav__brand" href="{{ base_path }}/#about">{{ site.name }}</a>
+    <div class="profile-nav__links">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>
