@@ -74,8 +74,8 @@ My current work spans robust query processing and databases for agents. Building
 
 <div class="profile-list">
   <div class="profile-item"><div class="profile-item__body"><h3>SIGMOD Light-Load, Fast-Response (LLFR) Program Committee</h3></div><div class="profile-item__date">2027</div></div>
-  <div class="profile-item"><div class="profile-item__body"><h3>External reviewer for SIGMOD, VLDB, and ICDE</h3></div><div class="profile-item__date">2024/2025/2026</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>SIGMOD Artifact Availability and Reproducibility Committee (ARC)</h3></div><div class="profile-item__date">2025</div></div>
+  <div class="profile-item"><div class="profile-item__body"><h3>External reviewer for SIGMOD, VLDB, and ICDE</h3></div><div class="profile-item__date">2024/2025/2026</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>Teaching Assistant, Database Systems</h3><p>Tsinghua University, 40470414</p></div><div class="profile-item__date">Spring 2026</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>Teaching Assistant, Quantitative Investment and Financial Optimization</h3><p>Tsinghua University, 80470273</p></div><div class="profile-item__date">Fall 2023</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>Teaching Assistant, Data Mining</h3><p>Tsinghua University, 40470333</p></div><div class="profile-item__date">Fall 2021</div></div>
