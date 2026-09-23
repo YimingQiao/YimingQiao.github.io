@@ -73,7 +73,7 @@ My current work spans robust query processing and databases for agents. Building
 {: #service}
 
 <div class="profile-list">
-  <div class="profile-item"><div class="profile-item__body"><h3>Light-Load, Fast-Response (LLFR) Program Committee</h3><p>ACM SIGMOD 2027</p></div><div class="profile-item__date">2027</div></div>
+  <div class="profile-item"><div class="profile-item__body"><h3>ACM SIGMOD Light-Load, Fast-Response (LLFR) Program Committee</h3></div><div class="profile-item__date">2027</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>External reviewer for SIGMOD, VLDB, and ICDE</h3></div><div class="profile-item__date">2024/2025/2026</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>Artifact Availability and Reproducibility Committee (ARC)</h3><p>ACM SIGMOD 2025</p></div><div class="profile-item__date">2025</div></div>
   <div class="profile-item"><div class="profile-item__body"><h3>Teaching Assistant, Database Systems</h3><p>Tsinghua University, 40470414</p></div><div class="profile-item__date">Spring 2026</div></div>
